@@ -9,7 +9,7 @@ body{
 .formdiv{
     background-color:teal;
     color: white;
-margin-top: 20vh;
+margin-top: 10vh;
 border: 1px solid black;
 display: inline;
 padding: 20px;
@@ -38,3 +38,4 @@ padding: 20px;
 span{
     color: red;
 }
+
